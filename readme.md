@@ -17,6 +17,9 @@ npm install
 npm start
 ```
 
+## How it works
+
+![alt tag](/howitworks.png)
 
 For more see: https://2c2p.com/
 And for 2c2p documentation see: https://developer.2c2p.com/docs
