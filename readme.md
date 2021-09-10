@@ -17,9 +17,23 @@ npm install
 npm start
 ```
 
+## How to test
+
+```
+You will find testing card / account information for each supported country to test.
+```
+https://developer.2c2p.com/docs/reference-testing-information
+
+
 ## How it works
 
 ![alt tag](/howitworks.png)
 
-For more see: https://2c2p.com/
-And for 2c2p documentation see: https://developer.2c2p.com/docs
+
+## End points for production
+https://developer.2c2p.com/docs/reference-environment-guide
+
+
+## Documentation
+
+https://developer.2c2p.com/docs
