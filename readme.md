@@ -1,4 +1,4 @@
-# 2C2P Payment Integration Node (Sample)
+# 2C2P Payment Integration NodeJs (Sample)
 
 A wallet custodian middleware (Agency) for ZADA mobile wallet app.
 
